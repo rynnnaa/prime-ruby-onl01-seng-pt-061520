@@ -1,3 +1,3 @@
 def prime(int)
-  returns true
+  int.prime?
 end
